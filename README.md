@@ -10,9 +10,6 @@ The program simulates functionality of terminal pipe ("|").
 usage:
 
 download
-in the directory run
-
-	make
 
 in terminal run following:
 
